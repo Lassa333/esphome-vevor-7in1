@@ -93,14 +93,14 @@ external_components:
     components: [vevor_decoder]
 
 spi:
-  clk_pin: GPIO18
-  mosi_pin: GPIO06
+  clk_pin: GPIO04
   miso_pin: GPIO05
+  mosi_pin: GPIO06
 
 cc1101:
   id: radio
-  cs_pin: GPIO15
-  gdo0_pin: GPIO12
+  cs_pin: GPIO10
+  gdo0_pin: GPIO1
   # 915 MHz for a US station.
   frequency: 868.35MHz
   modulation_type: 2-FSK
