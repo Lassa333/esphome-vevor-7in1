@@ -36,7 +36,7 @@ diagnostics from the radio, handy when tuning `frequency` or the antenna.
 # Hardware
 
 ### Step 1: Buying guide
-For this project you need 2 Modules:
+For this project you need 2 modules:
 
 1) Radio-Chip: CC1101 [info](https://www.ti.com/product/CC1101?keyMatch=CC1101&tisearch=universal_search&usecase=GPN-ALT)
 
@@ -44,7 +44,7 @@ For this project you need 2 Modules:
 
    you need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules  that dominate search results will not work!!! the band matters, and so does the antenna!
 
-3) ESP32-32-Board
+3) ESP32-Board
 
    A ESP32-C3 is proven to work - but every ESP32-Board should do the job; Consider the ESP32-C6 if you plan to transmit the values over Zigbee or Thread in addition
 
