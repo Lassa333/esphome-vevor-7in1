@@ -32,6 +32,14 @@ Input comes from a CC1101 in packet mode (recommended) or from
 All of them are optional; leave out the ones you don't want. The last three are
 diagnostics from the radio, handy when tuning `frequency` or the antenna.
 
+## What you need
+
+# Hardware
+
+# Wiring
+
+# Flah the Firmware
+
 ## Hardware
 
 - CC1101 module **for the 868 MHz band** (EU) — or 915 MHz if your station is a
