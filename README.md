@@ -35,6 +35,10 @@ diagnostics from the radio, handy when tuning `frequency` or the antenna.
 ## What you need
 
 # Hardware
+For this project you need 2 Moduls:
+
+- RF-Chip: CC1101
+- ESP32: Go for the ESP32-C3 (If you plan to use Zigbee oder Thread, consider the ESP32-C6)
 
 # Wiring
 
