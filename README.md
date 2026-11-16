@@ -43,8 +43,6 @@ For this project you need 2 Moduls:
    
    Caution:
    You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions will not work
-
-   Attach the antenna - if provided 
      
 3) ESP32-32-Board
 
