@@ -39,7 +39,7 @@ diagnostics from the radio, handy when tuning `frequency` or the antenna.
 ### Step 1: Buying guide
 For this project you need 2 Moduls:
 
-1) RF-Chip: CC1101 (Caution: You have dto you the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions wont work at all!!!)
+1) RF-Chip: CC1101 (Caution: You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions wont work at all)
 2) ESP32: Go for the ESP32-C3 (If you plan to use Zigbee oder Thread, consider the ESP32-C6)
 
 # Wiring
