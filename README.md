@@ -72,18 +72,12 @@ Here it is an example for an ESP32-C3:
 
 
 
-# Flash the Firmware
+### Step4: Flash the Firmware
 Use [ESPHome](https://esphome.io/install/) to do so. There are many guides out there if you haven’t yet work with ESPHome ([more info](https://esphome.io/install/getting-started/)). Get used to it before continuing!
 Double-Check that you the correct PIN assignments in your configuration!!!!
 
 
-## Hardware
-
-- CC1101 module **for the 868 MHz band** (EU) — or 915 MHz if your station is a
-  US model. See the warning above: the band matters, and so does the antenna.
-- SPI wired to the ESP32, plus the module's **GDO0** pin to a free GPIO.
-
-## Configuration
+### Configuration
 
 Packet mode needs ESPHome **2026.2 or newer**.
 
