@@ -42,7 +42,7 @@ For this project you need 2 Modules:
 
    Caution once again:
 
-   you need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules and antennas that dominate search results will not work!!! the band matters, and so does the antenna!
+   you need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules  that dominate search results will not work!!! the band matters, and so does the antenna!
 
 3) ESP32-32-Board
 
