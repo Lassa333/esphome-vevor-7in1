@@ -40,8 +40,9 @@ For this project you need 2 Modules:
 
 1) Radio-Chip: CC1101 [info](https://www.ti.com/product/CC1101?keyMatch=CC1101&tisearch=universal_search&usecase=GPN-ALT)
 
-   Caution:
-   once again: you need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules and antennas that dominate search results will not work
+   Caution once again:
+
+   you need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules and antennas that dominate search results will not work
 
 3) ESP32-32-Board
 
