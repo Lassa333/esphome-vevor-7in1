@@ -47,7 +47,7 @@ For this project you need 2 Moduls:
      
 2) ESP32-32-Board
 
-   A ESP32-C3 is proven to work but every ESP32-Board should work; Consider the ESP32-C6 if you plan to transmit the values over Zigbee oder Thread
+   A ESP32-C3 is proven to work - but every ESP32-Board should do the job; Consider the ESP32-C6 if you plan to transmit the values over Zigbee oder Thread
    
 ### Step 2: Soldering
 Most (if not all) CC1101 moduls are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering ist quit a task!
