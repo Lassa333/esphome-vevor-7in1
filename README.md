@@ -61,9 +61,13 @@ Here it is an example for an ESP32-C3:
 
 | CC1101 | ESP32-C3 |
 |     :---:      |         :---: |
-| git status     | git status    |
-| git diff       | git diff      |
-
+| VCC     | 3V3    |
+| Gnd  | Gnd |
+| SCK  | 4    |
+| MISO | 5    |
+| MOSI | 6    |
+| GDO0 | 1    |
+| GDO2 | 7    |
 
 
 
