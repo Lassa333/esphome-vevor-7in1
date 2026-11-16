@@ -54,10 +54,13 @@ Take your time to do it proberly. Get some help if you need to.
 Tipp:
 Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care on insulation of the soldererd wires.
 
+### Step 3: Wiring
+Connect the soldered wires to the ESP32. Depending on the modul of choice, you can take choose the GPIOs as you want. Double-check the wright GPIOs in configuration!!!
 
- 
+Here it is an example for an ESP32-C3:
 
-# Wiring
+
+
 
 # Flah the Firmware
 
