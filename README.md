@@ -82,6 +82,7 @@ Double-Check that you the correct PIN assignments in your configuration!!!!
 Packet mode needs ESPHome **2026.2 or newer**.
 
 ```yaml
+
 external_components:
   - source: github://parrel/esphome-vevor-7in1@main
     components: [vevor_decoder]
