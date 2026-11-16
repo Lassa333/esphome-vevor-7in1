@@ -39,7 +39,7 @@ diagnostics from the radio, handy when tuning `frequency` or the antenna.
 ### Step 1: Buying guide
 For this project you need 2 Moduls:
 
-1) RF-Chip: CC1101
+1) RF-Chip: [CC1101](https://www.ti.com/product/CC1101?keyMatch=CC1101&tisearch=universal_search&usecase=GPN-ALT)
    
    Caution:
    You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions will not work
