@@ -45,8 +45,9 @@ For this project you need 2 Moduls:
    You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions will not work
    Attach the antenna - if provided 
      
-3) ESP32-32: Every ESP32-Board should work;
-   A ESP32-C3 is proven to work; If you plan to transmit the values over Zigbee oder Thread: consider the ESP32-C6
+2) ESP32-32-Board
+
+   Every ESP32-Board should work; A ESP32-C3 is proven to work; If you plan to transmit the values over Zigbee oder Thread: consider the ESP32-C6
 
 ### Step 2: Soldering
 Most (if not all) CC1101 moduls are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering ist quit a task!
