@@ -59,7 +59,7 @@ Connect the soldered wires to the ESP32. Depending on the modul of choice, you c
 
 Here it is an example for an ESP32-C3:
 
-| Center-aligned | Center-aligned |
+| CC1101 | ESP32-C3 |
 |     :---:      |         :---: |
 | git status     | git status    |
 | git diff       | git diff      |
