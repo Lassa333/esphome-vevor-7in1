@@ -42,24 +42,20 @@ For this project you need 2 Moduls:
 1) RF-Chip: CC1101
    
    Caution:
-   You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions wont work at all
+   You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions will not work
    Attach the antenna - if provided 
      
 3) ESP32: Go for the ESP32-C3 (If you plan to use Zigbee oder Thread, consider the ESP32-C6)
 
 ### Step 2: Soldering
-Most (if not all) CC1101 moduls are tiny. And they use often a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering ist quit a task!
-Take your time to do that or get some help if you need.
+Most (if not all) CC1101 moduls are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering ist quit a task!
+Take your time to do it proberly. Get some help if you need to. 
 
 Tipp:
-Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care on insulation 
+Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care on insulation of the soldererd wires.
 
 
-or 
-
-Standard wireless modules with the CC1101 transceiver chip typically feature an 8-pin . 
-
-, it is quite a task to solder the wires to the module.  
+ 
 
 # Wiring
 
