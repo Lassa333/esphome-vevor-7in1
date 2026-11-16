@@ -92,8 +92,8 @@ external_components:
 
 spi:
   clk_pin: GPIO18
-  mosi_pin: GPIO22
-  miso_pin: GPIO19
+  mosi_pin: GPIO06
+  miso_pin: GPIO05
 
 cc1101:
   id: radio
