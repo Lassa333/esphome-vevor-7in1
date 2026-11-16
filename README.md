@@ -41,9 +41,9 @@ For this project you need 2 Moduls:
 
 1) RF-Chip: CC1101
    
-     Caution:
-       You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions wont work at all
-       Attach an antenna - if provided 
+   Caution:
+   You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions wont work at all
+   Attach the antenna - if provided 
      
 3) ESP32: Go for the ESP32-C3 (If you plan to use Zigbee oder Thread, consider the ESP32-C6)
 
@@ -52,7 +52,7 @@ Most (if not all) CC1101 moduls are tiny. And they use often a header with a pit
 Take your time to do that or get some help if you need.
 
 Tipp:
-Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care to make a good insulation 
+Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care on insulation 
 
 
 or 
