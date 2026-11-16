@@ -60,9 +60,9 @@ Connect the soldered wires to the ESP32. Depending on the modul of choice, you c
 Here it is an example for an ESP32-C3:
 
 | CC1101 | ESP32-C3 |
-|     :---:      |         :---: |
+| :---:  |    :---: |
 | VCC     | 3V3    |
-| Gnd  | Gnd |
+| Gnd  | Gnd  |
 | SCK  | 4    |
 | MISO | 5    |
 | MOSI | 6    |
