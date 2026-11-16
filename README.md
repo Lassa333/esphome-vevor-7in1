@@ -35,6 +35,8 @@ diagnostics from the radio, handy when tuning `frequency` or the antenna.
 ## What you need
 
 # Hardware
+
+### Step 1: Buying guide
 For this project you need 2 Moduls:
 
 1) RF-Chip: CC1101
