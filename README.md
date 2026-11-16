@@ -52,7 +52,7 @@ For this project you need 2 Modules:
 Most (if not all) CC1101 modules are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering is quite a task!
 Take your time to do it properly. Get some help if you need to.
 
-Tipp:
+Tip:
 Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care on insulation of the soldered wires.
 
 ### Step 3: Wiring
