@@ -72,7 +72,7 @@ Here it is an example for an ESP32-C3:
 
 
 # Flash the Firmware
-Use ESPHome ( https://esphome.io/install/ ) to do so. There are many guides out there if you havent yet work with ESPHome. Get used to it before continuing!
+Use [ESPHome](https://esphome.io/install/) to do so. There are many guides out there if you havent yet work with ESPHome. Get used to it before continuing!
 Double-Check that you the correct PIN assignments in your configuration!!!!
 
 ## Hardware
