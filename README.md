@@ -62,7 +62,7 @@ Here it is an example for an ESP32-C3:
 
 
 
-# Flah the Firmware
+# Flash the Firmware
 
 ## Hardware
 
