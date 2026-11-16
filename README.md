@@ -43,9 +43,10 @@ For this project you need 2 Moduls:
    
    Caution:
    You have to go for the 868Mhz for the EU and the 915Mhz for the US!!!! 443Mhz versions will not work
+
    Attach the antenna - if provided 
      
-2) ESP32-32-Board
+3) ESP32-32-Board
 
    A ESP32-C3 is proven to work - but every ESP32-Board should do the job; Consider the ESP32-C6 if you plan to transmit the values over Zigbee oder Thread
    
