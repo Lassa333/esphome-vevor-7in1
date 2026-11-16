@@ -41,7 +41,7 @@ For this project you need 2 Modules:
 1) Radio-Chip: CC1101 [info](https://www.ti.com/product/CC1101?keyMatch=CC1101&tisearch=universal_search&usecase=GPN-ALT)
 
    Caution:
-   You have to go for the 868Mhz-Version for Vevor-units sold in the EU and the 915Mhz-Version for Vevor-units in the US!!!! 443Mhz versions will not work
+   once again: you need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules and antennas that dominate search results will not work
 
 3) ESP32-32-Board
 
