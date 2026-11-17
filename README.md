@@ -40,15 +40,13 @@ For this project you need 2 modules:
 
 1) Radio-Chip: CC1101 [info](https://www.ti.com/product/CC1101?keyMatch=CC1101&tisearch=universal_search&usecase=GPN-ALT)
 
-Caution once again:
+  Caution once again:
 
-You need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules that dominate search results will not work!!! The band matters, and so does the antenna!
+  You need a CC1101 module for the 868 MHz band with an 868 MHz antenna (915 MHz for US stations). The 433 MHz modules that dominate search results will not work!!! The band matters, and so does the antenna!
 
+2) ESP32-Board
 
-
-ESP32-Board
-
-An ESP32-C3 is proven to work - but every ESP32 board should do the job. Consider the ESP32-C6 if you plan to transmit the values over Zigbee or Thread in addition.
+  An ESP32-C3 is proven to work - but every ESP32 board should do the job. Consider the ESP32-C6 if you plan to transmit the values over Zigbee or Thread in addition.
 
 ### Step 2: Soldering
 Most (if not all) CC1101 modules are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering is quite a task!
