@@ -49,11 +49,10 @@ For this project you need 2 modules:
     An ESP32-C3 is proven to work - but every ESP32 board should do the job. Consider the ESP32-C6 if you plan to transmit the values over Zigbee or Thread in addition.
 
 ### Step 2: Soldering
-Most (if not all) CC1101 modules are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering is quite a task!
-Take your time to do it properly. Get some help if you need to.
+   Most (if not all) CC1101 modules are very small. And they often use a header with a pitch of 1.27 mm - not the typical 2.54 mm. So soldering is quite a task! Take your time to do it properly. Get some help if you need to.
 
-Tip:
-Start with the soldering of the pin-header to the CC1101-board, than solder the duPont-wires directly to the longer legs of the pin-header. Take care on insulation of the soldered wires.
+   Tip: Start with the soldering of the pin header to the CC1101 board, then solder the duPont-wires directly to the longer legs of the pin header. Take care of the insulation of the soldered wires.
+
 
 ### Step 3: Wiring
 Connect the soldered wires to the ESP32. Depending on the module of choice, you can take choose the GPIOs as you want. Double-check the right GPIOs in your configuration!!!
