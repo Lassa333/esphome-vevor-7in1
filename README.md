@@ -55,7 +55,7 @@ For this project you need 2 modules:
 
 
 ### Step 3: Wiring
-Connect the soldered wires to the ESP32. Depending on the module of choice, you can take choose the GPIOs as you want. Double-check the right GPIOs in your configuration!!!
+Connect the soldered wires to the ESP32. Depending on the module of choice, you can choose the GPIOs as you want. Double-check the right GPIOs in your configuration!!!
 
 Here it is an example for an ESP32-C3:
 
@@ -70,11 +70,8 @@ Here it is an example for an ESP32-C3:
 | GDO2 | 7    |
 
 
-
 ### Step4: Flash the Firmware
-Use [ESPHome](https://esphome.io/install/) to do so. There are many guides out there if you haven’t yet work with ESPHome ([more info](https://esphome.io/install/getting-started/)). Get used to it before continuing!
-Double-Check that you the correct PIN assignments in your configuration!!!!
-
+Use ESPHome to do so. There are many guides out there if you haven’t yet worked with ESPHome ([more info](https://esphome.io/install/getting-started/)). Get used to it before continuing! Double-check that you have the correct PIN assignments in your configuration!!!!
 
 ### Configuration
 
